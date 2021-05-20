@@ -1,0 +1,1093 @@
+{UTF-8}
+"Bajo nivel de extracción de litio con respecto al promedio de Chile, Argentina y Bolivia"\
+		  = A FUNCTION OF( Empresas mineras extranjeras en Perú,Empresas mineras peruanas en el Perú\
+		)
+	~	
+	~		|
+
+Profesionales capacitados en minería de litio  = A FUNCTION OF( Inversión en educación y tecnología minera de litio\
+		)
+	~	
+	~		|
+
+Empresas mineras peruanas en el Perú  = A FUNCTION OF( Profesionales capacitados en minería de litio\
+		)
+	~	
+	~		|
+
+La entidad B reacciona con mayor magnitud  = A FUNCTION OF( Una entidad A realiza una accion que afecta a la entidad B\
+		)
+	~	
+	~		|
+
+Al conseguir resultados le permite poder explotar mas recursos  = A FUNCTION OF( Una organizacion A usa recursos para conseguir resultados\
+		)
+	~	
+	~		|
+
+Se consiguen resultados a base de recursos  = A FUNCTION OF( Se analiza a largo plazo para tomar accion y que los recursos no se agoten\
+		)
+	~	
+	~		|
+
+Se analiza a largo plazo para tomar accion y que los recursos no se agoten  = A FUNCTION OF\
+		( Se identifica que el flujo de salida de los recursos es mayor que su flujo de reposicion\
+		)
+	~	
+	~		|
+
+Una organizacion A usa recursos para conseguir resultados  = A FUNCTION OF( Los recursos se agotan y ambas empresas dejan de obtener mayores resultados\
+		)
+	~	
+	~		|
+
+Otra empresa B sigue el mismo modelo que la empresa A  = A FUNCTION OF( Al conseguir resultados le permite poder explotar mas recursos\
+		)
+	~	
+	~		|
+
+Se identifica que el flujo de salida de los recursos es mayor que su flujo de reposicion\
+		  = A FUNCTION OF( Se consiguen resultados a base de recursos)
+	~	
+	~		|
+
+La empresa B consigue resultados a partir de los recursos  = A FUNCTION OF( Otra empresa B sigue el mismo modelo que la empresa A\
+		)
+	~	
+	~		|
+
+Una entidad A realiza una accion que afecta a la entidad B  = A FUNCTION OF( La accion de la entidad B afecta a la entidad A\
+		)
+	~	
+	~		|
+
+Los recursos se agotan y ambas empresas dejan de obtener mayores resultados  = A FUNCTION OF\
+		( La cantidad de recursos se agota mas rapido que la velocidad con la que se recupera\
+		)
+	~	
+	~		|
+
+Idenficar mas factores y no centrarse en uno solo  = A FUNCTION OF( Reconocer cuando se afecta a otra entidad y responde de peor forma\
+		)
+	~	
+	~		|
+
+Reconocer cuando se afecta a otra entidad y responde de peor forma  = A FUNCTION OF( \
+		Centrarse en otras acciones que no afecten directamente a la otra entidad)
+	~	
+	~		|
+
+Centrarse en otras acciones que no afecten directamente a la otra entidad  = A FUNCTION OF\
+		( Evitar responder con mayor fuerza)
+	~	
+	~		|
+
+La accion de la entidad B afecta a la entidad A  = A FUNCTION OF( La entidad B reacciona con mayor magnitud\
+		)
+	~	
+	~		|
+
+Evitar responder con mayor fuerza  = A FUNCTION OF( Idenficar mas factores y no centrarse en uno solo\
+		)
+	~	
+	~		|
+
+La cantidad de recursos se agota mas rapido que la velocidad con la que se recupera  \
+		= A FUNCTION OF( La empresa B consigue resultados a partir de los recursos)
+	~	
+	~		|
+
+Estandar de enfermeros por cama UCI  = A FUNCTION OF( )
+	~	
+	~		|
+
+Resultados en las encuestas de PL  = A FUNCTION OF( Ataques de Peru Libre)
+	~	
+	~		|
+
+Ataques de Fuerza Popular  = A FUNCTION OF( Resultados de FP sobre los resultado de PL\
+		)
+	~	
+	~		|
+
+Ataques de Peru Libre  = A FUNCTION OF( Resultados de FP sobre los resultado de PL)
+	~	
+	~		|
+
+Extraccion de litio de la empresa B  = A FUNCTION OF( Litio para la empresa B)
+	~	
+	~		|
+
+Percepción de necesidad de enfermeros  = A FUNCTION OF( Nivel de enfermeros por cama UCI\
+		,Estandar de enfermeros por cama UCI)
+	~	
+	~		|
+
+Aumento de enfermeros  = A FUNCTION OF( Percepción de necesidad de enfermeros)
+	~	
+	~		|
+
+Resultados de FP sobre los resultado de PL  = A FUNCTION OF( Resultados en las encuestas de FP\
+		,Resultados en las encuestas de PL)
+	~	
+	~		|
+
+Personas analfabetas educadas por no analfabetas en el sur del Peru  = A FUNCTION OF(\
+		 Personas no analfabetas en el sur del Peru)
+	~	
+	~		|
+
+Brecha entre la meta y lo actual  = A FUNCTION OF( Turistas anuales actuales en el sur del Peru\
+		,Meta de alcanzar una cantidad de tusistas anuales en el sur del Peru)
+	~	
+	~		|
+
+Camas UCI en hospitales  = A FUNCTION OF( Personas contagiadas de covid 19 atendidas)
+	~	
+	~		|
+
+Cantidad de colegios en el sur del Peru  = A FUNCTION OF( )
+	~	
+	~		|
+
+Cantidad de litio en el sur del Peru  = A FUNCTION OF( Extraccion total)
+	~	
+	~		|
+
+Personas que pueden contagiar con coronavirus en el sur del Peru  = A FUNCTION OF( Personas infectadas por coronavirus en el sur del Peru\
+		)
+	~	
+	~		|
+
+Promocion de turismo en el sur del Peru  = A FUNCTION OF( Brecha entre la meta y lo actual\
+		)
+	~	
+	~		|
+
+Resultados en las encuestas de FP  = A FUNCTION OF( Ataques de Fuerza Popular)
+	~	
+	~		|
+
+Desarrollo economico de Lima  = A FUNCTION OF( Recursos de Lima)
+	~	
+	~		|
+
+Desarrollo economico de Lima sobre el desarrollo economico de provincias  = A FUNCTION OF\
+		( Desarrollo economico de provincias,Desarrollo economico de Lima)
+	~	
+	~		|
+
+Desarrollo economico de provincias  = A FUNCTION OF( Recursos de provincias)
+	~	
+	~		|
+
+Presion por disminuir la meta de cantidades de turistas en el sur del Peru  = A FUNCTION OF\
+		( Brecha entre la meta y lo actual)
+	~	
+	~		|
+
+Litio para la empresa B  = A FUNCTION OF( Cantidad de litio en el sur del Peru,Extraccion de litio de la empresa B\
+		)
+	~	
+	~		|
+
+Recursos de provincias  = A FUNCTION OF( Desarrollo economico de Lima sobre el desarrollo economico de provincias\
+		)
+	~	
+	~		|
+
+Personas no analfabetas en el sur del Peru  = A FUNCTION OF( Personas analfabetas educadas por no analfabetas en el sur del Peru\
+		,Personas no analfabetas educadas por colegio en el sur del Peru)
+	~	
+	~		|
+
+Turistas anuales actuales en el sur del Peru  = A FUNCTION OF( Promocion de turismo en el sur del Peru\
+		)
+	~	
+	~		|
+
+Nivel de enfermeros por cama UCI  = A FUNCTION OF( Personas contagiadas de covid 19 atendidas\
+		,Aumento de enfermeros)
+	~	
+	~		|
+
+Empresas informales  = A FUNCTION OF( Leyes de formalizacion)
+	~	
+	~		|
+
+Meta de alcanzar una cantidad de tusistas anuales en el sur del Peru  = A FUNCTION OF\
+		( Presion por disminuir la meta de cantidades de turistas en el sur del Peru)
+	~	
+	~		|
+
+Recursos de Lima  = A FUNCTION OF( Desarrollo economico de Lima sobre el desarrollo economico de provincias\
+		)
+	~	
+	~		|
+
+Personas infectadas por coronavirus en el sur del Peru  = A FUNCTION OF( Personas que pueden contagiar con coronavirus en el sur del Peru\
+		)
+	~	
+	~		|
+
+Extraccion total  = A FUNCTION OF( Extraccion de litio de la empresa A,Extraccion de litio de la empresa B\
+		)
+	~	
+	~		|
+
+Leyes de formalizacion  = A FUNCTION OF( Empresas informales)
+	~	
+	~		|
+
+Extraccion de litio de la empresa A  = A FUNCTION OF( Litio para la empresa A)
+	~	
+	~		|
+
+Litio para la empresa A  = A FUNCTION OF( Cantidad de litio en el sur del Peru,Extraccion de litio de la empresa A\
+		)
+	~	
+	~		|
+
+Personas no analfabetas educadas por colegio en el sur del Peru  = A FUNCTION OF( Cantidad de colegios en el sur del Peru\
+		,Personas no analfabetas en el sur del Peru)
+	~	
+	~		|
+
+Personas contagiadas de covid 19 atendidas  = A FUNCTION OF( Nivel de enfermeros por cama UCI\
+		,Camas UCI en hospitales)
+	~	
+	~		|
+
+Empresas mineras extranjeras en Perú  = A FUNCTION OF( "Bajo nivel de extracción de litio con respecto al promedio de Chile, Argentina y Bolivia"\
+		)
+	~	
+	~		|
+
+Ocurren consecuencias imprevistas  = A FUNCTION OF( Se soluciona el problema brevemente\
+		)
+	~	
+	~		|
+
+Se ven resultados rápidos  = A FUNCTION OF( Se implementa una solución externa a corto plazo\
+		)
+	~	
+	~		|
+
+Si la solución genera dependencia externa se debe incentivar soluciones dentro de la organización\
+		  = A FUNCTION OF( Reconocer el tipo de solución que le estamos dando a un problema\
+		)
+	~	
+	~		|
+
+Inversión en educación y tecnología minera de litio  = A FUNCTION OF( "Bajo nivel de extracción de litio con respecto al promedio de Chile, Argentina y Bolivia"\
+		,Dependencia de inversión extranjera)
+	~	
+	~		|
+
+Considerando escenearios y proyección a largo plazo  = A FUNCTION OF( Se debe analizar la solución a implementar\
+		)
+	~	
+	~		|
+
+Pobreza en el Sur del Perú  = A FUNCTION OF( Mineras generan empresas locales,Empresas locales quiebran por falta de asesoría\
+		)
+	~	
+	~		|
+
+Dependencia de inversión extranjera  = A FUNCTION OF( Empresas mineras extranjeras en Perú\
+		)
+	~	
+	~		|
+
+Se implementa una solución de corto plazo  = A FUNCTION OF( Situación no deseada)
+	~	
+	~		|
+
+Las soluciones internas no generan dependencia y tienen resultados a largo plazo  = A FUNCTION OF\
+		( Si la solución genera dependencia externa se debe incentivar soluciones dentro de la organización\
+		)
+	~	
+	~		|
+
+Disminuye la dependencia externa  = A FUNCTION OF( Las soluciones internas no generan dependencia y tienen resultados a largo plazo\
+		)
+	~	
+	~		|
+
+Se tiene una situción no deseada  = A FUNCTION OF( Genera dependencia externa)
+	~	
+	~		|
+
+Se deja de lado los resultados a largo plazo  = A FUNCTION OF( Se ven resultados rápidos\
+		)
+	~	
+	~		|
+
+Situción no deseada  = A FUNCTION OF( Se soluciona el problema a largo plazo)
+	~	
+	~		|
+
+Empresas locales quiebran por falta de asesoría  = A FUNCTION OF( Mineras generan empresas locales\
+		)
+	~	
+	~		|
+
+Reconocer el tipo de solución que le estamos dando a un problema  = A FUNCTION OF( Disminuye la dependencia externa\
+		)
+	~	
+	~		|
+
+Se debe analizar la solución a implementar  = A FUNCTION OF( Situción no deseada)
+	~	
+	~		|
+
+Situación no deseada  = A FUNCTION OF( Ocurren consecuencias imprevistas)
+	~	
+	~		|
+
+Mineras generan empresas locales  = A FUNCTION OF( Pobreza en el Sur del Perú)
+	~	
+	~		|
+
+Se soluciona el problema brevemente  = A FUNCTION OF( Se implementa una solución de corto plazo\
+		)
+	~	
+	~		|
+
+Se implementa una solución externa a corto plazo  = A FUNCTION OF( Se tiene una situción no deseada\
+		)
+	~	
+	~		|
+
+Genera dependencia externa  = A FUNCTION OF( Se deja de lado los resultados a largo plazo\
+		)
+	~	
+	~		|
+
+Se soluciona el problema a largo plazo  = A FUNCTION OF( Considerando escenearios y proyección a largo plazo\
+		)
+	~	
+	~		|
+
+"¿Qué limitantes tenemos para seguir creciendo?"  = A FUNCTION OF( Se observa esfuerzos que están llevando a la mejora del desempeño en una organización\
+		)
+	~	
+	~		|
+
+Se inician esfuerzos  = A FUNCTION OF( El equipo actual será mejorado en paralelo con el aumento del desempeño\
+		)
+	~	
+	~		|
+
+Se invierte en equipo  = A FUNCTION OF( Pasa un tiempo)
+	~	
+	~		|
+
+Pasa un tiempo  = A FUNCTION OF( Se requiere mayor inversión)
+	~	
+	~		|
+
+Percepción de necesidad de mejor equipamento  = A FUNCTION OF( Nivel de respuesta del equipamento\
+		,Estandar de calidad de equipamento)
+	~	
+	~		|
+
+Se observa que se está bajo el estándar de calidad  = A FUNCTION OF( El equipo actual ya no responde como antes\
+		)
+	~	
+	~		|
+
+Desempeño  = A FUNCTION OF( Nivel de respuesta del equipamento,Práctica)
+	~	
+	~		|
+
+Dieta  = A FUNCTION OF( Pérdida de peso)
+	~	
+	~		|
+
+Ponemos empeño  = A FUNCTION OF( Nuestro rendimiento se ve limitado por la restricción a pesar de nuestros esfuerzo\
+		)
+	~	
+	~		|
+
+El equipo actual será mejorado en paralelo con el aumento del desempeño  = A FUNCTION OF\
+		( Se prepara la inversión con antipación)
+	~	
+	~		|
+
+El equipo actual ya no responde como antes  = A FUNCTION OF( Mejoramos nuestro desempeño\
+		)
+	~	
+	~		|
+
+Que funciona como restricción que limita el crecimiento  = A FUNCTION OF( Sin embargo existe un acción limitante\
+		)
+	~	
+	~		|
+
+Ratio de calorías quemadas  = A FUNCTION OF( Metabolismo de la persona,Pérdida de peso\
+		)
+	~	
+	~		|
+
+Sin embargo existe un acción limitante  = A FUNCTION OF( Mejoramos el rendimiento)
+	~	
+	~		|
+
+Estandar de calidad de equipamento  = A FUNCTION OF( )
+	~	
+	~		|
+
+Se analisa el equipamento actual  = A FUNCTION OF( Se mejora el desempeño)
+	~	
+	~		|
+
+Nivel de respuesta del equipamento  = A FUNCTION OF( Desempeño,Inversión en nuevo equipamento\
+		)
+	~	
+	~		|
+
+Nuestro rendimiento se ve limitado por la restricción a pesar de nuestros esfuerzo  \
+		= A FUNCTION OF( Que funciona como restricción que limita el crecimiento)
+	~	
+	~		|
+
+Mejora el nivel de respuesta  = A FUNCTION OF( Se invierte en equipo)
+	~	
+	~		|
+
+Se mejora el desempeño  = A FUNCTION OF( Se inician esfuerzos)
+	~	
+	~		|
+
+Inversión en nuevo equipamento  = A FUNCTION OF( Percepción de necesidad de mejor equipamento\
+		)
+	~	
+	~		|
+
+Se observa esfuerzos que están llevando a la mejora del desempeño en una organización\
+		  = A FUNCTION OF( La organización no deja de crecer)
+	~	
+	~		|
+
+La organización no deja de crecer  = A FUNCTION OF( Se resuelven las limitaciones)
+	~	
+	~		|
+
+Pérdida de peso  = A FUNCTION OF( Dieta,Ratio de calorías quemadas)
+	~	
+	~		|
+
+Mejoramos nuestro desempeño  = A FUNCTION OF( Realizamos esfuerzos)
+	~	
+	~		|
+
+Se requiere mayor inversión  = A FUNCTION OF( Se observa que se está bajo el estándar de calidad\
+		)
+	~	
+	~		|
+
+Práctica  = A FUNCTION OF( Desempeño)
+	~	
+	~		|
+
+Mejoramos el rendimiento  = A FUNCTION OF( Ponemos empeño)
+	~	
+	~		|
+
+Metabolismo de la persona  = A FUNCTION OF( )
+	~	
+	~		|
+
+Realizamos esfuerzos  = A FUNCTION OF( Mejora el nivel de respuesta)
+	~	
+	~		|
+
+Se resuelven las limitaciones  = A FUNCTION OF( "¿Qué limitantes tenemos para seguir creciendo?"\
+		)
+	~	
+	~		|
+
+Se prepara la inversión con antipación  = A FUNCTION OF( Se analisa el equipamento actual\
+		)
+	~	
+	~		|
+
+Ambas entidades ganan  = A FUNCTION OF( Se generan propiedades emergentes de la colaboracion\
+		)
+	~	
+	~		|
+
+Aumenta la presion de cumplir los objetivos y no ver resultados  = A FUNCTION OF( Sin embargo estas acciones toman tiempo en dar resultados\
+		)
+	~	
+	~		|
+
+Aumenta la viabilidad y escalabilidad a largo plazo  = A FUNCTION OF( Ambas entidades ganan\
+		)
+	~	
+	~		|
+
+Brecha  = A FUNCTION OF( Nivel de aprendizaje actual,Meta de alcanzar alto nivel de aprendizaje\
+		)
+	~	
+	~		|
+
+Dejando a los otros con menos recursos disponibles  = A FUNCTION OF( Este éxito contribuye a que la entidad pueda tener más del recurso\
+		)
+	~	
+	~		|
+
+El cual lo usa y con ello obtiene buenos resultados  = A FUNCTION OF( Este recurso se le da a una entidad\
+		)
+	~	
+	~		|
+
+En caso que se detecte que estamos cayendo en la erosión de metas  = A FUNCTION OF( \
+		Trabajar en lograr la meta sin caer en su erosión)
+	~	
+	~		|
+
+Esfuerzo y dedicación  = A FUNCTION OF( Brecha)
+	~	
+	~		|
+
+Establecer metas que no podamos alterar  = A FUNCTION OF( Observar factores externos que nos lleven a establecer metas\
+		)
+	~	
+	~		|
+
+Este éxito contribuye a que la entidad pueda tener más del recurso  = A FUNCTION OF\
+		( Lo que hace que su éxito con respecto a otros sea mayor)
+	~	
+	~		|
+
+Este recurso se le da a una entidad  = A FUNCTION OF( Ocurre cuando tenemos un recurso limitado\
+		,Se repite el ciclo)
+	~	
+	~		|
+
+Éxito del desarrollo personal con respecto al éxito en la familia y amigos  = A FUNCTION OF\
+		( Éxito en el desarrollo personal,Éxito en la familia y amigos)
+	~	
+	~		|
+
+Éxito en el desarrollo personal  = A FUNCTION OF( Tiempo dedicado al desarrollo personal\
+		)
+	~	
+	~		|
+
+Éxito en la familia y amigos  = A FUNCTION OF( Tiempo dedicado a familia y amigos)
+	~	
+	~		|
+
+La empresa logra el objetivo acortado  = A FUNCTION OF( Lo cual disminuye la brecha)
+	~	
+	~		|
+
+La organización opta por reducir el alcance de su objetivo  = A FUNCTION OF( Aumenta la presion de cumplir los objetivos y no ver resultados\
+		)
+	~	
+	~		|
+
+Lo cual disminuye la brecha  = A FUNCTION OF( La organización opta por reducir el alcance de su objetivo\
+		)
+	~	
+	~		|
+
+Lo que hace que su éxito con respecto a otros sea mayor  = A FUNCTION OF( El cual lo usa y con ello obtiene buenos resultados\
+		)
+	~	
+	~		|
+
+Meta de alcanzar alto nivel de aprendizaje  = A FUNCTION OF( Presion por disminuir la meta de nivel de aprendizaje\
+		)
+	~	
+	~		|
+
+Nivel de aprendizaje actual  = A FUNCTION OF( Esfuerzo y dedicación)
+	~	
+	~		|
+
+Observar factores externos que nos lleven a establecer metas  = A FUNCTION OF( En caso que se detecte que estamos cayendo en la erosión de metas\
+		)
+	~	
+	~		|
+
+Ocurre cuando tenemos un recurso limitado  = A FUNCTION OF( )
+	~	
+	~		|
+
+Pero no se logran los resultados esperados  = A FUNCTION OF( La empresa logra el objetivo acortado\
+		)
+	~	
+	~		|
+
+Plantear que no exista un solo ganador  = A FUNCTION OF( )
+	~	
+	~		|
+
+Presion por disminuir la meta de nivel de aprendizaje  = A FUNCTION OF( Brecha)
+	~	
+	~		|
+
+Realiza acciones para lograrlo  = A FUNCTION OF( Una organizacion se dispone a alcanzar un objetivo\
+		)
+	~	
+	~		|
+
+Se generan propiedades emergentes de la colaboracion  = A FUNCTION OF( Se promueve la colaboracion en lugar de la competencia\
+		)
+	~	
+	~		|
+
+Se promueve la colaboracion en lugar de la competencia  = A FUNCTION OF( Aumenta la viabilidad y escalabilidad a largo plazo\
+		,Plantear que no exista un solo ganador)
+	~	
+	~		|
+
+Se repite el ciclo  = A FUNCTION OF( Y sin poder tener buenos resultados debido a que no tienen los recursos suficientes\
+		)
+	~	
+	~		|
+
+Sin embargo estas acciones toman tiempo en dar resultados  = A FUNCTION OF( Realiza acciones para lograrlo\
+		)
+	~	
+	~		|
+
+Tiempo dedicado a familia y amigos  = A FUNCTION OF( Éxito del desarrollo personal con respecto al éxito en la familia y amigos\
+		)
+	~	
+	~		|
+
+Tiempo dedicado al desarrollo personal  = A FUNCTION OF( Éxito del desarrollo personal con respecto al éxito en la familia y amigos\
+		)
+	~	
+	~		|
+
+Trabajar en lograr la meta sin caer en su erosión  = A FUNCTION OF( Establecer metas que no podamos alterar\
+		)
+	~	
+	~		|
+
+Una organizacion se dispone a alcanzar un objetivo  = A FUNCTION OF( La empresa logra el objetivo acortado\
+		)
+	~	
+	~		|
+
+Y sin poder tener buenos resultados debido a que no tienen los recursos suficientes  \
+		= A FUNCTION OF( Dejando a los otros con menos recursos disponibles)
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 1
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,120,0
+10,1,Tiempo dedicado al desarrollo personal,91,152,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Tiempo dedicado a familia y amigos,523,168,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Éxito en el desarrollo personal,72,4,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Éxito en la familia y amigos,536,-16,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,Éxito del desarrollo personal con respecto al éxito en la familia y amigos,320,87,91,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,6,3,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(232,-12)|
+1,7,5,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(239,156)|
+1,8,1,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(59,81)|
+1,9,4,5,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(384,-3)|
+1,10,5,2,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(397,153)|
+1,11,2,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(596,81)|
+10,12,Ocurre cuando tenemos un recurso limitado,177,336,77,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,Este recurso se le da a una entidad,445,365,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,14,El cual lo usa y con ello obtiene buenos resultados,169,432,84,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,15,Lo que hace que su éxito con respecto a otros sea mayor,476,483,80,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,16,Este éxito contribuye a que la entidad pueda tener más del recurso,163,552,93,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,17,Dejando a los otros con menos recursos disponibles,447,597,87,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,18,Y sin poder tener buenos resultados debido a que no tienen los recursos suficientes,155,659,108,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,19,12,13,0,0,0,0,0,64,0,-1--1--1,,1|(308,349)|
+1,20,13,14,0,0,0,0,0,64,0,-1--1--1,,1|(320,395)|
+1,21,14,15,0,0,0,0,0,64,0,-1--1--1,,1|(317,455)|
+1,22,15,16,0,0,0,0,0,64,0,-1--1--1,,1|(332,513)|
+1,23,16,17,0,0,0,0,0,64,0,-1--1--1,,1|(301,573)|
+1,24,17,18,0,0,0,0,0,64,0,-1--1--1,,1|(320,624)|
+10,25,Se repite el ciclo,395,696,52,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,26,18,25,0,0,0,0,0,64,0,-1--1--1,,1|(296,679)|
+1,27,25,13,1,0,0,0,0,64,0,-1--1--1,,1|(-13,435)|
+10,28,Plantear que no exista un solo ganador,775,136,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,29,Ambas entidades ganan,939,381,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,30,Se promueve la colaboracion en lugar de la competencia,932,215,85,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,31,Se generan propiedades emergentes de la colaboracion,753,299,77,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,32,Aumenta la viabilidad y escalabilidad a largo plazo,759,477,83,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,33,28,30,0,0,0,0,0,64,0,-1--1--1,,1|(837,167)|
+1,34,30,31,0,0,0,0,0,64,0,-1--1--1,,1|(848,256)|
+1,35,31,29,0,0,0,0,0,64,0,-1--1--1,,1|(849,341)|
+1,36,29,32,0,0,0,0,0,64,0,-1--1--1,,1|(855,425)|
+1,37,32,30,1,0,0,0,0,64,0,-1--1--1,,1|(1064,345)|
+10,38,Recursos de provincias,796,47,40,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,39,Recursos de Lima,1228,63,57,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,40,Desarrollo economico de provincias,775,-101,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,41,Desarrollo economico de Lima,1239,-121,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,42,Desarrollo economico de Lima sobre el desarrollo economico de provincias,1023,-16,100,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,43,40,42,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(935,-117)|
+1,44,42,38,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(944,51)|
+1,45,38,40,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(764,-24)|
+1,46,41,42,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1087,-108)|
+1,47,42,39,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(1100,48)|
+1,48,39,41,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1299,-24)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 2
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,130,0
+10,1,Una organizacion se dispone a alcanzar un objetivo,224,368,68,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Realiza acciones para lograrlo,493,417,53,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Sin embargo estas acciones toman tiempo en dar resultados,227,487,87,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Aumenta la presion de cumplir los objetivos y no ver resultados,487,568,93,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,La organización opta por reducir el alcance de su objetivo,208,616,80,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,6,Lo cual disminuye la brecha,447,673,57,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,7,1,2,0,0,0,0,0,64,0,-1--1--1,,1|(359,392)|
+1,8,2,3,0,0,0,0,0,64,0,-1--1--1,,1|(383,445)|
+1,9,3,4,0,0,0,0,0,64,0,-1--1--1,,1|(348,524)|
+1,10,4,5,0,0,0,0,0,64,0,-1--1--1,,1|(347,591)|
+1,11,5,6,0,0,0,0,0,64,0,-1--1--1,,1|(332,645)|
+10,12,Pero no se logran los resultados esperados,412,753,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,La empresa logra el objetivo acortado,199,737,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,14,6,13,0,0,0,0,0,64,0,-1--1--1,,1|(332,701)|
+1,15,13,12,0,0,0,0,0,64,0,-1--1--1,,1|(296,743)|
+1,16,13,1,1,0,0,0,0,64,0,-1--1--1,,1|(47,533)|
+10,17,Nivel de aprendizaje actual,124,132,57,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,18,Meta de alcanzar alto nivel de aprendizaje,128,-112,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,19,Brecha,260,7,24,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,20,Esfuerzo y dedicación,397,139,35,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,21,Presion por disminuir la meta de nivel de aprendizaje,401,-111,76,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,22,18,19,1,0,0,0,0,64,0,-1--1--1,,1|(153,-40)|
+1,23,19,21,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(384,-43)|
+1,24,21,18,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(256,-192)|
+1,25,19,20,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(353,47)|
+1,26,20,17,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(239,223)|
+1,27,17,19,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(160,47)|
+10,28,En caso que se detecte que estamos cayendo en la erosión de metas,732,348,97,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,29,Establecer metas que no podamos alterar,721,561,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,30,Observar factores externos que nos lleven a establecer metas,891,468,88,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,31,Trabajar en lograr la meta sin caer en su erosión,861,655,85,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,32,28,30,0,0,0,0,0,64,0,-1--1--1,,1|(805,403)|
+1,33,30,29,0,0,0,0,0,64,0,-1--1--1,,1|(803,515)|
+1,34,29,31,0,0,0,0,0,64,0,-1--1--1,,1|(784,604)|
+1,35,31,28,1,0,0,0,0,64,0,-1--1--1,,1|(999,480)|
+10,36,Turistas anuales actuales en el sur del Peru,576,129,68,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,37,Meta de alcanzar una cantidad de tusistas anuales en el sur del Peru,580,-115,96,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,38,Brecha entre la meta y lo actual,712,4,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,39,Promocion de turismo en el sur del Peru,849,136,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,40,Presion por disminuir la meta de cantidades de turistas en el sur del Peru,853,-112,95,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,41,37,38,1,0,0,0,0,64,0,-1--1--1,,1|(605,-43)|
+1,42,38,40,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(836,-44)|
+1,43,40,37,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(708,-195)|
+1,44,38,39,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(805,44)|
+1,45,39,36,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(691,220)|
+1,46,36,38,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(612,44)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 3
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,Dieta,0,168,20,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Pérdida de peso,188,180,52,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Ratio de calorías quemadas,369,156,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Metabolismo de la persona,317,48,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,5,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(69,125)|
+1,6,2,3,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(312,229)|
+1,7,4,3,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(339,96)|
+1,8,2,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(61,221)|
+1,9,3,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(244,125)|
+10,10,Ponemos empeño,-63,392,56,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,11,Mejoramos el rendimiento,140,440,45,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,12,Sin embargo existe un acción limitante,-72,509,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,Que funciona como restricción que limita el crecimiento,112,565,72,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,14,10,11,0,0,0,0,0,64,0,-1--1--1,,1|(32,413)|
+1,15,12,13,0,0,0,0,0,64,0,-1--1--1,,1|(8,533)|
+1,16,11,12,0,0,0,0,0,64,0,-1--1--1,,1|(44,469)|
+10,17,Nuestro rendimiento se ve limitado por la restricción a pesar de nuestros esfuerzo,-76,660,105,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,18,13,17,0,0,0,0,0,64,0,-1--1--1,,1|(24,608)|
+1,19,17,10,1,0,0,0,0,64,0,-1--1--1,,1|(-255,500)|
+10,20,Se observa esfuerzos que están llevando a la mejora del desempeño en una organización,520,368,100,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,21,"¿Qué limitantes tenemos para seguir creciendo?",445,493,77,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,22,Se resuelven las limitaciones,608,561,51,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,23,La organización no deja de crecer,460,669,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,24,20,21,0,0,0,0,0,64,0,-1--1--1,,1|(484,428)|
+1,25,21,22,0,0,0,0,0,64,0,-1--1--1,,1|(519,524)|
+1,26,22,23,0,0,0,0,0,64,0,-1--1--1,,1|(540,612)|
+1,27,23,20,1,0,0,0,0,64,0,-1--1--1,,1|(749,453)|
+10,28,Personas analfabetas educadas por no analfabetas en el sur del Peru,587,184,91,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,29,Personas no analfabetas en el sur del Peru,775,196,77,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,30,Personas no analfabetas educadas por colegio en el sur del Peru,956,172,85,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,31,Cantidad de colegios en el sur del Peru,904,64,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,32,28,29,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(656,141)|
+1,33,29,30,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(899,245)|
+1,34,31,30,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(924,108)|
+1,35,29,28,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(648,237)|
+1,36,30,29,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(829,141)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 4
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,Práctica,73,133,27,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Desempeño,243,144,40,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Nivel de respuesta del equipamento,375,180,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Inversión en nuevo equipamento,252,339,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,Percepción de necesidad de mejor equipamento,477,328,80,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,6,Estandar de calidad de equipamento,556,200,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,7,2,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(131,196)|
+1,8,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(156,68)|
+1,9,2,3,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(288,176)|
+1,10,3,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(388,100)|
+1,11,4,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(280,224)|
+1,12,5,4,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(332,385)|
+1,13,3,5,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(448,224)|
+1,14,6,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(553,263)|
+10,15,Realizamos esfuerzos,183,477,36,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,16,Mejoramos nuestro desempeño,399,496,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,17,El equipo actual ya no responde como antes,189,568,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,18,Se requiere mayor inversión,189,663,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,19,Pasa un tiempo,417,716,48,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,20,Se invierte en equipo,187,740,43,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,21,Mejora el nivel de respuesta,356,808,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,22,Se observa que se está bajo el estándar de calidad,432,607,85,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,23,15,16,0,0,0,0,0,64,0,-1--1--1,,1|(272,484)|
+1,24,16,17,0,0,0,0,0,64,0,-1--1--1,,1|(300,529)|
+1,25,17,22,0,0,0,0,0,64,0,-1--1--1,,1|(297,584)|
+1,26,22,18,0,0,0,0,0,64,0,-1--1--1,,1|(305,635)|
+1,27,18,19,0,0,0,0,0,64,0,-1--1--1,,1|(301,688)|
+1,28,19,20,0,0,0,0,0,64,0,-1--1--1,,1|(308,727)|
+1,29,20,21,0,0,0,0,0,64,0,-1--1--1,,1|(264,772)|
+1,30,21,15,1,0,0,0,0,64,0,-1--1--1,,1|(67,715)|
+10,31,Se inician esfuerzos,707,488,31,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,32,Se mejora el desempeño,856,541,41,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,33,Se analisa el equipamento actual,695,629,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,34,Se prepara la inversión con antipación,873,697,73,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,35,El equipo actual será mejorado en paralelo con el aumento del desempeño,704,775,100,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,36,31,32,0,0,0,0,0,64,0,-1--1--1,,1|(769,512)|
+1,37,32,33,0,0,0,0,0,64,0,-1--1--1,,1|(781,581)|
+1,38,33,34,0,0,0,0,0,64,0,-1--1--1,,1|(776,660)|
+1,39,34,35,0,0,0,0,0,64,0,-1--1--1,,1|(804,728)|
+1,40,35,31,1,0,0,0,0,64,0,-1--1--1,,1|(1024,624)|
+10,41,Camas UCI en hospitales,780,108,48,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,42,Personas contagiadas de covid 19 atendidas,948,119,79,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,43,Nivel de enfermeros por cama UCI,1080,155,65,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,44,Aumento de enfermeros,957,316,40,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,45,Percepción de necesidad de enfermeros,1184,303,48,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,46,Estandar de enfermeros por cama UCI,1261,175,68,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,47,42,41,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(836,171)|
+1,48,41,42,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(861,43)|
+1,49,42,43,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(993,151)|
+1,50,43,42,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1093,75)|
+1,51,44,43,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(985,199)|
+1,52,45,44,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(1037,360)|
+1,53,43,45,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(1153,199)|
+1,54,46,45,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1260,240)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 5
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,160,0
+10,1,Pobreza en el Sur del Perú,133,-131,57,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Mineras generan empresas locales,367,-128,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Empresas locales quiebran por falta de asesoría,244,8,68,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,4,2,3,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(368,-37)|
+1,5,3,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(128,-25)|
+1,6,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(244,-195)|
+1,7,2,1,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(248,-68)|
+10,8,Situación no deseada,193,127,40,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,9,Se implementa una solución de corto plazo,313,200,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,10,Ocurren consecuencias imprevistas,256,352,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,11,8,9,0,0,0,0,0,64,0,-1--1--1,,1|(248,160)|
+1,12,10,8,1,0,0,0,0,64,0,-1--1--1,,1|(43,225)|
+10,13,Situción no deseada,557,117,36,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,14,Se debe analizar la solución a implementar,689,197,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,15,Considerando escenearios y proyección a largo plazo,536,279,84,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,16,13,14,0,0,0,0,0,64,0,-1--1--1,,1|(616,153)|
+1,17,14,15,0,0,0,0,0,64,0,-1--1--1,,1|(620,236)|
+10,18,Se soluciona el problema a largo plazo,667,352,73,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,19,15,18,0,0,0,0,0,64,0,-1--1--1,,1|(596,311)|
+1,20,18,13,1,0,0,0,0,64,0,-1--1--1,,1|(804,164)|
+10,21,Se soluciona el problema brevemente,159,260,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,22,9,21,0,0,0,0,0,64,0,-1--1--1,,1|(244,225)|
+1,23,21,10,0,0,0,0,0,64,0,-1--1--1,,1|(200,299)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 6
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,"Bajo nivel de extracción de litio con respecto al promedio de Chile, Argentina y Bolivia",389,188,99,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Empresas mineras extranjeras en Perú,384,4,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Inversión en educación y tecnología minera de litio,520,293,79,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Dependencia de inversión extranjera,632,164,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,5,2,1,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(305,88)|
+1,6,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(459,96)|
+1,7,2,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(548,36)|
+1,8,4,3,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(620,227)|
+1,10,1,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(483,203)|
+10,11,Se tiene una situción no deseada,177,563,65,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,12,Se implementa una solución externa a corto plazo,389,607,76,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,Se ven resultados rápidos,152,649,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,14,Se deja de lado los resultados a largo plazo,379,712,75,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,15,Genera dependencia externa,156,797,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,16,11,12,0,0,0,0,0,64,0,-1--1--1,,1|(272,584)|
+1,17,12,13,0,0,0,0,0,64,0,-1--1--1,,1|(267,628)|
+1,18,13,14,0,0,0,0,0,64,0,-1--1--1,,1|(252,676)|
+1,19,14,15,0,0,0,0,0,64,0,-1--1--1,,1|(273,752)|
+1,20,15,11,1,0,0,0,0,64,0,-1--1--1,,1|(71,640)|
+10,21,Reconocer el tipo de solución que le estamos dando a un problema,651,500,96,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,22,Si la solución genera dependencia externa se debe incentivar soluciones dentro de la organización,853,611,116,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,23,Las soluciones internas no generan dependencia y tienen resultados a largo plazo,628,687,93,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,24,Disminuye la dependencia externa,804,768,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,25,21,22,0,0,0,0,0,64,0,-1--1--1,,1|(745,551)|
+1,26,22,23,0,0,0,0,0,64,0,-1--1--1,,1|(747,648)|
+1,27,23,24,0,0,0,0,0,64,0,-1--1--1,,1|(720,729)|
+1,28,24,21,1,0,0,0,0,64,0,-1--1--1,,1|(1003,568)|
+10,31,Empresas mineras peruanas en el Perú,240,292,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,34,31,1,1,0,45,0,2,64,0,-1--1--1,|0||-1--1--1,1|(252,216)|
+10,36,Profesionales capacitados en minería de litio,381,391,72,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,37,3,36,1,0,0,0,0,64,0,-1--1--1,,1|(499,347)|
+1,38,36,31,1,0,0,0,2,65,0,-1--1--1,|0||-1--1--1,1|(260,360)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 7
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,Ataques de Fuerza Popular,88,161,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Ataques de Peru Libre,560,143,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Resultados de FP sobre los resultado de PL,305,144,77,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,4,3,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(208,205)|
+1,5,3,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(444,205)|
+10,6,Resultados en las encuestas de FP,191,53,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,7,Resultados en las encuestas de PL,448,51,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,8,1,6,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(104,76)|
+1,9,6,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(272,76)|
+1,10,2,7,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(552,88)|
+1,11,7,3,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(339,60)|
+10,12,Una entidad A realiza una accion que afecta a la entidad B,217,320,84,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,La entidad B reacciona con mayor magnitud,379,415,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,14,La accion de la entidad B afecta a la entidad A,189,524,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,15,12,13,0,0,0,0,0,64,0,-1--1--1,,1|(299,368)|
+1,16,13,14,0,0,0,0,0,64,0,-1--1--1,,1|(292,465)|
+1,17,14,12,1,0,0,0,0,64,0,-1--1--1,,1|(73,361)|
+10,18,Reconocer cuando se afecta a otra entidad y responde de peor forma,587,300,96,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,19,Idenficar mas factores y no centrarse en uno solo,771,395,80,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,20,Evitar responder con mayor fuerza,587,480,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,21,Centrarse en otras acciones que no afecten directamente a la otra entidad,760,568,95,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,22,18,19,0,0,0,0,0,64,0,-1--1--1,,1|(681,348)|
+1,23,19,20,0,0,0,0,0,64,0,-1--1--1,,1|(685,436)|
+1,24,20,21,0,0,0,0,0,64,0,-1--1--1,,1|(657,516)|
+1,25,21,18,1,0,0,0,0,64,0,-1--1--1,,1|(909,397)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 8
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,Empresas informales,223,80,33,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Leyes de formalizacion,153,207,44,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,3,2,1,1,0,0,0,0,64,0,-1--1--1,,1|(108,109)|
+1,4,1,2,1,0,0,0,0,64,0,-1--1--1,,1|(280,169)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 9
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,120,0
+10,1,Extraccion de litio de la empresa A,184,47,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Litio para la empresa A,363,109,39,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Extraccion de litio de la empresa B,200,320,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Litio para la empresa B,329,387,39,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,Cantidad de litio en el sur del Peru,471,192,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,6,Extraccion total,112,228,49,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,7,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(325,45)|
+1,8,3,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(216,380)|
+1,9,4,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(325,301)|
+1,10,2,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(292,140)|
+1,11,1,6,1,0,0,0,0,64,0,-1--1--1,,1|(101,111)|
+1,12,3,6,1,0,0,0,0,64,0,-1--1--1,,1|(123,272)|
+1,13,5,2,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(424,156)|
+1,14,5,4,1,0,0,0,0,64,0,-1--1--1,,1|(436,304)|
+1,15,6,5,0,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(273,211)|
+10,16,Una organizacion A usa recursos para conseguir resultados,312,537,75,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,17,Al conseguir resultados le permite poder explotar mas recursos,511,600,87,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,18,Otra empresa B sigue el mismo modelo que la empresa A,272,683,77,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,19,La empresa B consigue resultados a partir de los recursos,460,760,80,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,20,La cantidad de recursos se agota mas rapido que la velocidad con la que se recupera,264,860,105,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,21,Los recursos se agotan y ambas empresas dejan de obtener mayores resultados,445,980,104,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,22,16,17,0,0,0,0,0,64,0,-1--1--1,,1|(397,564)|
+1,23,17,18,0,0,0,0,0,64,0,-1--1--1,,1|(396,640)|
+1,24,18,19,0,0,0,0,0,64,0,-1--1--1,,1|(360,720)|
+1,25,19,20,0,0,0,0,0,64,0,-1--1--1,,1|(368,805)|
+1,26,20,21,0,0,0,0,0,64,0,-1--1--1,,1|(348,916)|
+1,27,21,16,1,0,0,0,0,64,0,-1--1--1,,1|(104,767)|
+10,28,Se consiguen resultados a base de recursos,840,516,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,29,Se identifica que el flujo de salida de los recursos es mayor que su flujo de reposicion,1013,613,105,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,30,Se analiza a largo plazo para tomar accion y que los recursos no se agoten,851,719,100,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,31,28,29,0,0,0,0,0,64,0,-1--1--1,,1|(912,555)|
+1,32,29,30,0,0,0,0,0,64,0,-1--1--1,,1|(937,664)|
+1,33,30,28,1,0,0,0,0,64,0,-1--1--1,,1|(1160,612)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 10
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+10,1,Personas infectadas por coronavirus en el sur del Peru,219,28,77,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Personas que pueden contagiar con coronavirus en el sur del Peru,184,169,91,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,3,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(92,48)|
+1,4,2,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(343,120)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 11
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,140,0
+///---\\\
+:L<%^E!@
+5:"Bajo nivel de extracción de litio con respecto al promedio de Chile, Argentina y Bolivia"
+9:Current
+19:140,5
+24:0
+25:0
+26:0
+23:0
+15:0,0,0,0,0,0
+27:0,
+34:0,
+42:1
+72:0
+73:0
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+95:0
+96:0
+77:0
+78:0
+93:0
+94:0
+92:0
+91:0
+90:0
+87:0
+75:
+43:

@@ -1,0 +1,481 @@
+{UTF-8}
+Aumento de casos diarios de Covid 19  = A FUNCTION OF( Cantidad de personas transitando en las calles\
+		)
+	~	
+	~		|
+
+Bajo desarrollo económico del país  = A FUNCTION OF( Exportación de materia prima,\
+		Exportación de productos con valor agregado)
+	~	
+	~		|
+
+Calidad de enseñanza en colegios y universidades  = A FUNCTION OF( Inversión eficaz en educación\
+		)
+	~	
+	~		|
+
+Cantidad de personas transitando en las calles  = A FUNCTION OF( Cantidad de Trabajadores ambulantes\
+		,Trabajadores por HomeOffice)
+	~	
+	~		|
+
+Cantidad de Trabajadores ambulantes  = A FUNCTION OF( Capacidad adquisitiva de las personas\
+		)
+	~	
+	~		|
+
+Cantidad de universitarios en zonas rurales  = A FUNCTION OF( Nivel academico de los universitarios en zona rural\
+		,Normas de libre ingreso a estudiantes)
+	~	
+	~		|
+
+Cantidad de universitarios en zonas urbanas  = A FUNCTION OF( Nivel academico de universitarios en zonas urbanas\
+		,Normas de libre ingreso a estudiantes)
+	~	
+	~		|
+
+Cantidad total de estudiantes  = A FUNCTION OF( Cantidad de universitarios en zonas rurales\
+		,Cantidad de universitarios en zonas urbanas)
+	~	
+	~		|
+
+Capacidad adquisitiva de las personas  = A FUNCTION OF( Costo de conexión a internet\
+		,Costo de smartpohnes,Costos de laptops)
+	~	
+	~		|
+
+Ejecución del Gasto Público  = A FUNCTION OF( Desarrollo Sostenible del Perú)
+	~	
+	~		|
+
+Colegios con acceso a bibliotecas virtuales  = A FUNCTION OF( Inversión en Infraestructura digital\
+		)
+	~	
+	~		|
+
+Colegios con acceso a internet  = A FUNCTION OF( Inversión en Infraestructura digital\
+		)
+	~	
+	~		|
+
+Colegios con computadores  = A FUNCTION OF( Inversión en Infraestructura digital)
+	~	
+	~		|
+
+Competividad academica de estudiantes  = A FUNCTION OF( Calidad de enseñanza en colegios y universidades\
+		)
+	~	
+	~		|
+
+Costo de conexión a internet  = A FUNCTION OF( Demanda por infraestructura digital)
+	~	
+	~		|
+
+Costo de smartpohnes  = A FUNCTION OF( Demanda por infraestructura digital)
+	~	
+	~		|
+
+Costos de laptops  = A FUNCTION OF( Demanda por infraestructura digital)
+	~	
+	~		|
+
+Demanda por infraestructura digital  = A FUNCTION OF( Trabajadores por HomeOffice)
+	~	
+	~		|
+
+Dependencia de los recursos naturales  = A FUNCTION OF( Exportación de materia prima\
+		)
+	~	
+	~		|
+
+Desarrollo de la sociedad  = A FUNCTION OF( Nivel de educacion cívica,Nivel de educacion financiera\
+		,Nivel de educación académica)
+	~	
+	~		|
+
+Desarrollo economico del pais  = A FUNCTION OF( Rendimiento escolar en estudios superiores\
+		,Rendimiento escolar en primaria,Rendimiento escolar en secundaria)
+	~	
+	~		|
+
+Desarrollo Sostenible del Perú  = A FUNCTION OF( Industrias con alto valor agregado)
+	~	
+	~		|
+
+Ejecución de la inversión pública  = A FUNCTION OF( Percepción de necesidad de inversión\
+		)
+	~	
+	~		|
+
+Empresas con alto nivel de impacto  = A FUNCTION OF( Profesionales competentes)
+	~	
+	~		|
+
+Empresas nacionales con alto valor agregado  = A FUNCTION OF( Dependencia de los recursos naturales\
+		,Bajo desarrollo económico del país)
+	~	
+	~		|
+
+Estandar de infraestructura digital extranjera  = A FUNCTION OF( )
+	~	
+	~		|
+
+Exportación de materia prima  = A FUNCTION OF( Bajo desarrollo económico del país)
+	~	
+	~		|
+
+Exportación de productos con valor agregado  = A FUNCTION OF( Empresas nacionales con alto valor agregado\
+		)
+	~	
+	~		|
+
+Feedback de conocimiento en zona rural  = A FUNCTION OF( Cantidad de universitarios en zonas rurales\
+		)
+	~	
+	~		|
+
+Feedback de conocimiento en zona urbana  = A FUNCTION OF( Cantidad de universitarios en zonas urbanas\
+		)
+	~	
+	~		|
+
+Industrias con alto valor agregado  = A FUNCTION OF( Empresas con alto nivel de impacto\
+		)
+	~	
+	~		|
+
+Inversión eficaz en educación  = A FUNCTION OF( Ejecución del Gasto Público)
+	~	
+	~		|
+
+Inversión en Infraestructura digital  = A FUNCTION OF( Ejecución de la inversión pública\
+		)
+	~	
+	~		|
+
+Inversión en universidades públicas  = A FUNCTION OF( Presupuesto para universidades públicas\
+		)
+	~	
+	~		|
+
+Nivel academico  = A FUNCTION OF( Colegios con acceso a bibliotecas virtuales,Colegios con acceso a internet\
+		,Colegios con computadores,Desarrollo economico del pais,Rendimiento de la infraestructura digital con respecto al nivel académico\
+		)
+	~	
+	~		|
+
+Nivel academico de los universitarios en zona rural  = A FUNCTION OF( Feedback de conocimiento en zona rural\
+		,Inversión en universidades públicas)
+	~	
+	~		|
+
+Nivel academico de universitarios en zonas urbanas  = A FUNCTION OF( Feedback de conocimiento en zona urbana\
+		,Inversión en universidades públicas)
+	~	
+	~		|
+
+Nivel de educacion  = A FUNCTION OF( Desarrollo de la sociedad)
+	~	
+	~		|
+
+Nivel de educacion cívica  = A FUNCTION OF( Nivel de educacion)
+	~	
+	~		|
+
+Nivel de educacion financiera  = A FUNCTION OF( Nivel de educacion)
+	~	
+	~		|
+
+Nivel de educación académica  = A FUNCTION OF( Nivel de educacion)
+	~	
+	~		|
+
+Normas de libre ingreso a estudiantes  = A FUNCTION OF( Cantidad total de estudiantes\
+		)
+	~	
+	~		|
+
+Normas que restringen el flujo de transeuntes  = A FUNCTION OF( Aumento de casos diarios de Covid 19\
+		)
+	~	
+	~		|
+
+Percepción de necesidad de inversión  = A FUNCTION OF( Estandar de infraestructura digital extranjera\
+		,Rendimiento de la infraestructura digital con respecto al nivel académico)
+	~	
+	~		|
+
+Presupuesto para universidades públicas  = A FUNCTION OF( Cantidad total de estudiantes\
+		)
+	~	
+	~		|
+
+Profesionales competentes  = A FUNCTION OF( Competividad academica de estudiantes)
+	~	
+	~		|
+
+Rendimiento de la infraestructura digital con respecto al nivel académico  = A FUNCTION OF\
+		( Nivel academico)
+	~	
+	~		|
+
+Rendimiento escolar en estudios superiores  = A FUNCTION OF( Nivel academico)
+	~	
+	~		|
+
+Rendimiento escolar en primaria  = A FUNCTION OF( Nivel academico)
+	~	
+	~		|
+
+Rendimiento escolar en secundaria  = A FUNCTION OF( Nivel academico)
+	~	
+	~		|
+
+Trabajadores por HomeOffice  = A FUNCTION OF( Normas que restringen el flujo de transeuntes\
+		)
+	~	
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 100
+	~	Month
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Month
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Month [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 1
+	~	Month [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*Justificacion
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,Calidad de enseñanza en colegios y universidades,815,404,79,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Competividad academica de estudiantes,577,452,45,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Profesionales competentes,391,392,43,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Empresas con alto nivel de impacto,360,240,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,Industrias con alto valor agregado,501,89,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,6,2,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(484,437)|
+1,7,3,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(352,312)|
+1,8,4,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(389,133)|
+10,9,Desarrollo Sostenible del Perú,676,59,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,10,5,9,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(583,67)|
+1,11,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(735,469)|
+12,12,0,597,248,20,20,4,7,0,0,0,0,0,0,0,0,0,0,0,0
+R1
+10,13,Inversión eficaz en educación,896,253,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,14,13,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(875,336)|
+10,15,Ejecución del Gasto Público,861,117,45,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,16,9,15,1,0,43,0,2,64,0,-1--1--1,|0||-1--1--1,1|(771,80)|
+1,17,15,13,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(896,176)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 2
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,Nivel de educacion,111,-333,33,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Nivel de educacion financiera,392,-368,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Nivel de educacion cívica,367,-288,53,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Nivel de educación académica,331,-188,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,5,1,2,0,0,0,0,0,64,0,-1--1--1,,1|(232,-347)|
+1,6,1,3,0,0,0,0,0,64,0,-1--1--1,,1|(224,-313)|
+1,7,1,4,0,0,0,0,0,64,0,-1--1--1,,1|(216,-264)|
+10,8,Desarrollo de la sociedad,579,-287,51,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,9,2,8,0,0,0,0,0,64,0,-1--1--1,,1|(480,-328)|
+1,10,3,8,0,0,0,0,0,64,0,-1--1--1,,1|(467,-287)|
+1,11,4,8,0,0,0,0,0,64,0,-1--1--1,,1|(447,-232)|
+1,12,8,1,1,0,0,0,0,64,0,-1--1--1,,1|(359,-488)|
+10,13,Desarrollo economico del pais,157,256,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,14,Nivel academico,495,301,53,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,15,13,14,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(325,343)|
+10,16,Inversión en Infraestructura digital,536,580,67,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,17,Estandar de infraestructura digital extranjera,1001,400,68,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,18,0,324,280,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+10,19,Rendimiento de la infraestructura digital con respecto al nivel académico,781,321,87,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,20,14,19,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(636,232)|
+1,21,19,14,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(619,376)|
+12,22,0,629,303,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,23,0,745,460,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+10,24,Percepción de necesidad de inversión,860,483,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,25,Colegios con acceso a internet,480,449,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,26,Ejecución de la inversión pública,732,603,53,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,27,26,16,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(624,615)|
+1,28,16,25,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(495,532)|
+1,29,25,14,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(469,369)|
+1,30,19,24,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(847,396)|
+1,31,24,26,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(820,547)|
+1,32,17,24,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(929,441)|
+10,33,Rendimiento escolar en primaria,316,224,65,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,34,Rendimiento escolar en secundaria,329,127,65,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,35,Rendimiento escolar en estudios superiores,337,28,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,36,14,33,1,0,0,0,0,64,0,-1--1--1,,1|(437,245)|
+1,37,14,34,1,0,0,0,0,64,0,-1--1--1,,1|(453,177)|
+1,38,14,35,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(487,140)|
+1,39,33,13,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(223,227)|
+1,40,34,13,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(215,164)|
+1,41,35,13,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(201,97)|
+10,42,Colegios con computadores,620,459,48,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,43,Colegios con acceso a bibliotecas virtuales,311,461,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,44,16,43,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(379,537)|
+1,45,16,42,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(600,527)|
+1,46,43,14,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(392,372)|
+1,47,42,14,1,0,0,0,0,64,0,-1--1--1,,1|(536,380)|
+12,48,0,327,171,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,49,0,332,79,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,50,0,551,501,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,51,0,405,415,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 3
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,Inversión en universidades públicas,1260,241,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Cantidad de universitarios en zonas urbanas,852,72,71,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Cantidad de universitarios en zonas rurales,912,475,71,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Nivel academico de los universitarios en zona rural,1147,467,84,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,5,Nivel academico de universitarios en zonas urbanas,1137,67,71,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,6,Feedback de conocimiento en zona urbana,996,181,69,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,7,Feedback de conocimiento en zona rural,1012,344,69,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,8,Normas de libre ingreso a estudiantes,492,232,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,9,3,7,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(957,415)|
+1,10,7,4,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1080,405)|
+1,11,4,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1024,476)|
+1,12,2,6,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(917,124)|
+1,13,6,5,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1060,128)|
+1,14,5,2,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1001,68)|
+10,15,Cantidad total de estudiantes,715,232,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,16,2,15,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(753,132)|
+1,17,3,15,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(752,373)|
+1,18,8,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(635,99)|
+1,19,8,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(648,391)|
+1,20,15,8,0,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(617,232)|
+1,21,1,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1261,351)|
+1,22,1,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1245,147)|
+10,23,Presupuesto para universidades públicas,1004,243,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,24,15,23,0,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(844,236)|
+1,25,23,1,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(1125,244)|
+12,26,0,997,99,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,27,0,1019,429,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,28,0,1136,179,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,29,0,1152,345,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,30,0,652,307,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,31,0,632,157,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 4
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,Aumento de casos diarios de Covid 19,273,49,64,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Normas que restringen el flujo de transeuntes,557,52,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Demanda por infraestructura digital,671,468,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,4,Trabajadores por HomeOffice,548,204,56,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,5,1,2,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(416,36)|
+1,6,2,4,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(608,124)|
+1,7,4,3,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(665,304)|
+10,8,Cantidad de personas transitando en las calles,216,200,76,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,9,4,8,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(380,223)|
+1,10,8,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(212,129)|
+10,11,Costos de laptops,424,351,57,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,12,Costo de conexión a internet,433,468,60,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,13,Costo de smartpohnes,431,575,41,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,14,3,11,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(556,387)|
+1,15,3,12,0,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(555,467)|
+1,16,3,13,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(596,533)|
+10,17,Capacidad adquisitiva de las personas,229,457,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,18,11,17,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(307,368)|
+1,19,12,17,0,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(344,464)|
+1,20,13,17,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(285,548)|
+10,21,Cantidad de Trabajadores ambulantes,141,317,43,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,22,17,21,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(124,383)|
+1,23,21,8,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(152,252)|
+12,24,0,412,116,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+R
+12,25,0,432,284,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,26,0,436,529,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,27,0,436,409,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 5
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,Exportación de materia prima,344,59,49,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,2,Bajo desarrollo económico del país,368,280,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,Exportación de productos con valor agregado,524,368,64,28,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,4,3,2,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(427,309)|
+10,5,Empresas nacionales con alto valor agregado,296,499,75,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,6,5,3,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(455,457)|
+1,7,2,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(299,355)|
+1,8,1,2,1,0,45,0,2,64,0,-1--1--1,|12||0-0-0,1|(287,140)|
+10,9,Dependencia de los recursos naturales,736,349,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+1,10,1,9,1,0,43,0,2,65,0,-1--1--1,|12||0-0-0,1|(612,167)|
+1,11,2,1,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(451,188)|
+1,12,9,5,1,0,45,0,2,65,0,-1--1--1,|12||0-0-0,1|(587,488)|
+12,13,0,384,392,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,14,0,364,169,20,20,5,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+12,15,0,556,271,20,20,4,7,0,0,-1,0,0,0,0,0,0,0,0,0
+B
+///---\\\
+:L<%^E!@
+5:Rendimiento de la infraestructura digital con respecto al nivel académico
+9:Current
+19:100,1
+24:0
+25:0
+26:0
+23:0
+15:0,0,0,0,0,0
+27:0,
+34:0,
+42:1
+72:0
+73:0
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:2
+41:0
+95:0
+96:0
+77:0
+78:0
+93:0
+94:0
+92:0
+91:0
+90:0
+87:0
+75:
+43:

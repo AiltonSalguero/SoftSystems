@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xmile version="1.0" level="3" xmlns="http://www.systemdynamics.org/XMILE" xmlns:isee="http://iseesystems.com/XMILE">
+    <header>
+        <smile version="1.0" namespace="std, isee" />
+        <name>Forrester Caso</name>
+        <uuid>7164ad9c-7f80-477c-b2ae-21f30af7d447</uuid>
+        <vendor>isee systems, inc.</vendor>
+        <product version="10.0.6" lang="en">STELLA</product>
+    </header>
+    <style>
+        <model font-family="Arial" font-size="7" />
+        <interface font-family="Arial" font-size="9" />
+    </style>
+    <sim_specs method="Euler" time_units="Years">
+        <start>2010</start>
+        <stop>2030</stop>
+        <dt>1</dt>
+    </sim_specs>
+    <model_units />
+    <isee:prefs layer="model" grid_width="20" grid_height="50" divide_by_zero_alert="true" hide_taskbar="true" show_module_prefix="true">
+        <isee:window width="1920" height="976" />
+        <isee:security />
+        <isee:print_setup width="842" height="595" />
+    </isee:prefs>
+    <isee:equation_prefs order_by="module" />
+    <model>
+        <stock name="Gasto_Público_utilizado">
+            <eqn>0</eqn>
+            <inflow>Flow_1</inflow>
+            <non_negative />
+            <display x="191" y="542" color="blue" />
+        </stock>
+        <flow name="Flow_1">
+            <eqn>Presupuesto_general_de_la_república*Tasa_de_ejecucion_de_gasto_publico+Inversión_en_infraestructura_tecnológica_extranjera*Tasa_de_aumento_por_inversion_en_infraestructura_tencologica_ex</eqn>
+            <non_negative />
+            <display x="194" y="452" color="blue" label_angle="278">
+                <pts>
+                    <pt x="194" y="380" />
+                    <pt x="194" y="525" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Tasa_de_ejecucion_de_gasto_publico">
+            <eqn>0.7</eqn>
+            <display x="266" y="405" color="blue" />
+        </aux>
+        <stock name="Gasto_Público_devuelto_anual">
+            <eqn>0</eqn>
+            <inflow>Flow_12</inflow>
+            <outflow>Flow_5</outflow>
+            <non_negative />
+            <display x="389" y="273" color="blue" />
+        </stock>
+        <stock name="PBI_nacional">
+            <eqn>51.74</eqn>
+            <inflow>Flow_4</inflow>
+            <inflow>Flow_5</inflow>
+            <outflow>Flow_3</outflow>
+            <outflow>Flow_13</outflow>
+            <non_negative />
+            <display x="191" y="170" color="blue" />
+        </stock>
+        <stock name="Presupuesto_general_de_la_república">
+            <eqn>0</eqn>
+            <inflow>Flow_3</inflow>
+            <outflow>Flow_1</outflow>
+            <outflow>Flow_6</outflow>
+            <outflow>Flow_12</outflow>
+            <non_negative />
+            <display x="195" y="363" color="blue" />
+        </stock>
+        <flow name="Flow_3">
+            <eqn>PBI_nacional*Tasa_de_PBI_destinado_al_presupuesto_general</eqn>
+            <non_negative />
+            <display x="193" y="266" color="blue" label_angle="278">
+                <pts>
+                    <pt x="193" y="187" />
+                    <pt x="193" y="346" />
+                </pts>
+            </display>
+        </flow>
+        <flow name="Flow_4">
+            <eqn>Converter_3*PBI_nacional+Nivel_academico_en_el_Perú*Converter_6</eqn>
+            <non_negative />
+            <display x="187" y="100" color="blue" label_angle="278">
+                <pts>
+                    <pt x="187" y="48" />
+                    <pt x="187" y="153" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Tasa_de_PBI_destinado_al_presupuesto_general">
+            <eqn>0.2</eqn>
+            <display x="86" y="220" color="blue" />
+        </aux>
+        <flow name="Flow_5">
+            <eqn>Gasto_Público_devuelto_anual</eqn>
+            <non_negative />
+            <display x="302" y="165" color="blue">
+                <pts>
+                    <pt x="392" y="256" />
+                    <pt x="392" y="165" />
+                    <pt x="213" y="165" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Tasa_de_inversión_en_infraestructura_tecnologica">
+            <eqn>0.001</eqn>
+            <display x="390" y="399" color="blue" />
+        </aux>
+        <aux name="Inversión_en_infraestructura_tecnológica_extranjera">
+            <eqn>20</eqn>
+            <display x="74" y="531" color="blue" />
+        </aux>
+        <flow name="Flow_6">
+            <eqn>Tasa_de_corrupcion*Presupuesto_general_de_la_república</eqn>
+            <non_negative />
+            <display x="118" y="365" color="blue">
+                <pts>
+                    <pt x="173" y="365" />
+                    <pt x="63" y="365" />
+                </pts>
+            </display>
+        </flow>
+        <stock name="Presupuesto_robado_por_corrupcion">
+            <eqn>30</eqn>
+            <inflow>Flow_6</inflow>
+            <non_negative />
+            <display x="41" y="366" color="blue" />
+        </stock>
+        <stock name="Nivel_academico\nen_el_Perú">
+            <eqn>3</eqn>
+            <inflow>Flow_7</inflow>
+            <outflow>Flow_8</outflow>
+            <non_negative />
+            <display x="449" y="86" color="blue" />
+        </stock>
+        <flow name="Flow_7">
+            <eqn>PBI_nacional*Converter_1</eqn>
+            <non_negative />
+            <display x="372" y="88" color="blue">
+                <pts>
+                    <pt x="318" y="88" />
+                    <pt x="427" y="88" />
+                </pts>
+            </display>
+        </flow>
+        <flow name="Flow_8">
+            <eqn>Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi*Converter_5</eqn>
+            <non_negative />
+            <display x="528" y="87" color="blue">
+                <pts>
+                    <pt x="471" y="87" />
+                    <pt x="585" y="87" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Converter_1">
+            <eqn>0.01</eqn>
+            <display x="413" y="124" color="blue" />
+        </aux>
+        <stock name="Infraestructura_tecnologica">
+            <eqn>4</eqn>
+            <inflow>Flow_9</inflow>
+            <outflow>Flow_10</outflow>
+            <non_negative />
+            <display x="421" y="476" color="blue" />
+        </stock>
+        <flow name="Flow_9">
+            <eqn>Tasa_de_inversión_en_infraestructura_tecnologica*Gasto_Público_utilizado</eqn>
+            <non_negative />
+            <display x="356" y="488" color="blue">
+                <pts>
+                    <pt x="314" y="488" />
+                    <pt x="399" y="488" />
+                </pts>
+            </display>
+        </flow>
+        <flow name="Flow_10">
+            <eqn>DELAY(Infraestructura_tecnologica*Converter_4,3,3)</eqn>
+            <non_negative />
+            <display x="488" y="477" color="blue">
+                <pts>
+                    <pt x="443" y="477" />
+                    <pt x="533" y="477" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi">
+            <eqn>Infraestructura_tecnologica/Nivel_academico_en_el_Perú</eqn>
+            <display x="574" y="286" color="blue" />
+        </aux>
+        <aux name="Tasa_de_aumento_por_inversion_en_infraestructura_tencologica_ex">
+            <eqn>0.01</eqn>
+            <display x="53" y="485" color="blue" />
+        </aux>
+        <aux name="Converter_3">
+            <eqn>1.01</eqn>
+            <display x="88" y="68" color="blue" />
+        </aux>
+        <aux name="Tasa_de_corrupcion">
+            <eqn>0.2</eqn>
+            <display x="80" y="420" color="blue" />
+        </aux>
+        <flow name="Flow_12">
+            <eqn>delay(Presupuesto_general_de_la_república,1,1)</eqn>
+            <non_negative />
+            <display x="303" y="365" color="blue">
+                <pts>
+                    <pt x="217" y="365" />
+                    <pt x="389" y="365" />
+                    <pt x="389" y="290" />
+                </pts>
+            </display>
+        </flow>
+        <aux name="Converter_4">
+            <eqn>0.3</eqn>
+            <display x="594" y="499" color="blue" />
+        </aux>
+        <aux name="Converter_5">
+            <eqn>0.6</eqn>
+            <display x="536" y="31" color="blue" />
+        </aux>
+        <aux name="Converter_6">
+            <eqn>0.02</eqn>
+            <display x="235" y="70" color="blue" />
+        </aux>
+        <flow name="Flow_13">
+            <eqn>Converter_7*PBI_nacional</eqn>
+            <non_negative />
+            <display x="118" y="153" color="blue">
+                <pts>
+                    <pt x="169" y="153" />
+                    <pt x="67" y="153" />
+                </pts>
+            </display>
+        </flow>
+        <stock name="Otros_gastos">
+            <eqn>30</eqn>
+            <inflow>Flow_13</inflow>
+            <display x="45" y="160" color="blue" />
+        </stock>
+        <aux name="Converter_7">
+            <eqn>0.7</eqn>
+            <display x="65" y="109" color="blue" />
+        </aux>
+        <display page_width="842" page_height="595" isee:converter_size="medium" zoom="200" isee:animate_flows="true" isee:animate_stocks="true" isee:animate_converters="true" interval="DT">
+            <connector x="173" y="378" uid="0" color="#FF007F">
+                <from>Presupuesto_general_de_la_república</from>
+                <to>Flow_1</to>
+            </connector>
+            <connector x="170" y="181" uid="1" color="#FF007F">
+                <from>PBI_nacional</from>
+                <to>Flow_3</to>
+            </connector>
+            <connector x="94" y="224" uid="2" color="#FF007F">
+                <from>Tasa_de_PBI_destinado_al_presupuesto_general</from>
+                <to>Flow_3</to>
+            </connector>
+            <connector x="216" y="347" uid="3" color="#FF007F">
+                <from>Presupuesto_general_de_la_república</from>
+                <to>Flow_12</to>
+            </connector>
+            <connector x="173" y="376" uid="4" color="#FF007F">
+                <from>Presupuesto_general_de_la_república</from>
+                <to>Flow_6</to>
+            </connector>
+            <connector x="436" y="69" uid="5" color="#FF007F">
+                <from>Nivel_academico_en_el_Perú</from>
+                <to>Flow_4</to>
+            </connector>
+            <connector x="213" y="160" uid="6" color="#FF007F">
+                <from>PBI_nacional</from>
+                <to>Flow_7</to>
+            </connector>
+            <connector x="406" y="118" uid="7" color="#FF007F">
+                <from>Converter_1</from>
+                <to>Flow_7</to>
+            </connector>
+            <connector x="381" y="397" uid="8" color="#FF007F">
+                <from>Tasa_de_inversión_en_infraestructura_tecnologica</from>
+                <to>Flow_9</to>
+            </connector>
+            <connector x="214" y="543" uid="9" color="#FF007F">
+                <from>Gasto_Público_utilizado</from>
+                <to>Flow_9</to>
+            </connector>
+            <connector x="447" y="102" uid="10" color="#FF007F">
+                <from>Nivel_academico_en_el_Perú</from>
+                <to>Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi</to>
+            </connector>
+            <connector x="443" y="470" uid="11" color="#FF007F">
+                <from>Infraestructura_tecnologica</from>
+                <to>Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi</to>
+            </connector>
+            <connector x="82" y="527" uid="12" color="#FF007F">
+                <from>Inversión_en_infraestructura_tecnológica_extranjera</from>
+                <to>Flow_1</to>
+            </connector>
+            <connector x="59" y="477" uid="13" color="#FF007F">
+                <from>Tasa_de_aumento_por_inversion_en_infraestructura_tencologica_ex</from>
+                <to>Flow_1</to>
+            </connector>
+            <connector x="578" y="279" uid="14" color="#FF007F">
+                <from>Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi</from>
+                <to>Flow_8</to>
+            </connector>
+            <connector x="97" y="66" uid="15" color="#FF007F">
+                <from>Converter_3</from>
+                <to>Flow_4</to>
+            </connector>
+            <connector x="210" y="153" uid="16" color="#FF007F">
+                <from>PBI_nacional</from>
+                <to>Flow_4</to>
+            </connector>
+            <connector x="85" y="412" uid="17" color="#FF007F">
+                <from>Tasa_de_corrupcion</from>
+                <to>Flow_6</to>
+            </connector>
+            <connector x="257" y="401" uid="18" color="#FF007F">
+                <from>Tasa_de_ejecucion_de_gasto_publico</from>
+                <to>Flow_1</to>
+            </connector>
+            <connector x="375" y="256" uid="19" color="#FF007F">
+                <from>Gasto_Público_devuelto_anual</from>
+                <to>Flow_5</to>
+            </connector>
+            <connector x="436" y="459" uid="20" color="#FF007F">
+                <from>Infraestructura_tecnologica</from>
+                <to>Flow_10</to>
+            </connector>
+            <connector x="594" y="490" uid="21" color="#FF007F">
+                <from>Converter_4</from>
+                <to>Flow_10</to>
+            </connector>
+            <connector x="527" y="32" uid="22" color="#FF007F">
+                <from>Converter_5</from>
+                <to>Flow_8</to>
+            </connector>
+            <connector x="226" y="72" uid="23" color="#FF007F">
+                <from>Converter_6</from>
+                <to>Flow_4</to>
+            </connector>
+            <connector x="169" y="176" uid="24" color="#FF007F">
+                <from>PBI_nacional</from>
+                <to>Flow_13</to>
+            </connector>
+            <connector x="71" y="115" uid="25" color="#FF007F">
+                <from>Converter_7</from>
+                <to>Flow_13</to>
+            </connector>
+            <stacked_container height="282" width="492" uid="26">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="PBI_nacional" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="273" y="252" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 1" type="graph" icon_of="26" />
+            <stacked_container height="282" width="492" uid="27">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Gasto_Público_devuelto_anual" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="452" y="273" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 2" type="graph" icon_of="27" />
+            <stacked_container height="282" width="492" uid="28">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Infraestructura_tecnologica" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="458" y="405" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 3" type="graph" icon_of="28" />
+            <stacked_container height="282" width="492" uid="29">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Nivel_academico_en_el_Perú" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="427" y="29" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 4" type="graph" icon_of="29" />
+            <stacked_container height="282" width="492" uid="30">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Rendimiento_de_infraestructura_tecnologica_sobre_el_nivel_académi" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="657" y="251" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 5" type="graph" icon_of="30" />
+            <stacked_container height="282" width="492" uid="31">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Presupuesto_robado_por_corrupcion" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="41" y="282" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 6" type="graph" icon_of="31" />
+            <stacked_container height="282" width="492" uid="32">
+                <graph type="time_series" background="#FFFFC9" show_grid="true" plot_numbers="true" isee:use_five_segments="false" date_time="2021-05-17T17:29:53Z" time_precision="2" from="2010" to="2030">
+                    <title>Untitled</title>
+                    <plot index="0" pen_width="1" color="blue" precision="1" show_y_axis="true">
+                        <entity name="Otros_gastos" />
+                    </plot>
+                </graph>
+            </stacked_container>
+            <pad_icon x="53" y="43" width="26" height="22" color="#008F44" label_side="bottom" label="Graph 7" type="graph" icon_of="32" />
+        </display>
+        <interface page_width="788" page_height="528">
+            <simulation_delay>0.1</simulation_delay>
+        </interface>
+        <popup x="660" y="474" content="26" />
+        <popup x="677" y="468" visible="true" content="27" />
+        <popup x="917" y="485" content="28" />
+        <popup x="1132" y="136" content="29" />
+        <popup x="537" y="441" visible="true" content="30" />
+        <popup x="845" y="478" visible="true" content="31" />
+        <popup x="121" y="523" visible="true" content="32" />
+    </model>
+</xmile>
